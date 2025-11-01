@@ -1,12 +1,29 @@
-## Hi there 👋
+# 👋 Hey there!
 
-<!--
+We’re **Open Cube Access** — an **open-source crew** on a mission to make **Identity & Access Management (IAM)** simpler, smarter, and more open for everyone.  
 
-**Here are some ideas to get you started:**
+Our main project, **OCA (Open Cube Access)**, is a next-gen **IGA (Identity Governance & Administration)** platform built to make the **Joiner–Mover–Leaver (JML)** process smooth and transparent — no more identity chaos 🚀  
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## 🧩 What’s inside the cube?
+
+- **🖥️ OCA UI** – Your one-stop portal for access requests and app configuration.  
+- **⚙️ OCA Workflow Machine** – The brain that runs workflows, automates approvals, and handles access reviews like a champ.  
+- **🔗 OCA Native Connectors** – Ready-to-use integrations with your org’s data sources and endpoints.  
+
+---
+
+## 💡 Our vibe
+
+We’re three cybersecurity nerds who got tired of overcomplicated IAM tools — so we decided to build something open, flexible, and made *for the people*.  
+
+### Meet the founders
+- 🧠 **Matheus Duarte Rabello**  
+- 🔒 **Daniel Pádua Ferreira**  
+- 💥 **Mauro Augusto Guedes Peixoto**  
+
+---
+
+Made with ❤️ by the **Open Cube Access** community  
+Let’s make identity management a little less boring — and a lot more **open**. 🌍  

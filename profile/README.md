@@ -19,9 +19,9 @@ Our main project, **OCA (Open Cube Access)**, is a next-gen **IGA (Identity Gove
 We’re three cybersecurity nerds who got tired of overcomplicated IAM tools — so we decided to build something open, flexible, and made *for the people*.  
 
 ### Meet the founders
-- 🧠 **Matheus Duarte Rabello**  
-- 🔒 **Daniel Pádua Ferreira**  
-- 💥 **Mauro Augusto Guedes Peixoto**  
+- 🧠 **Matheus Duarte Rabello** (https://www.linkedin.com/in/mdrabello) 
+- 🔒 **Daniel Pádua Ferreira** (https://www.linkedin.com/in/danielpadua)
+- 💥 **Mauro Augusto Guedes Peixoto** (https://www.linkedin.com/in/mauro-peixoto-b98bb0238)
 
 ---
 
